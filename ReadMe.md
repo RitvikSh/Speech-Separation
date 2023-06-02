@@ -42,6 +42,11 @@ As our data is an audio dataset, the analysis is done by plotting various types 
 
 ## 3.2.1 EDA Image results
  
+ ![](Images/Graphs/AmplitudeVsTime.png)
+ <p align="center">
+	<b>Figure 3.2:    Graphs for Amplitude vs Time</b>
+</p>	<br /><br />
+ 
  ![](Images/Graphs/HPSS.png)
  <p align="center">
 	<b>Figure 3.3:   Graphs for Harmony and Percussion of Sounds</b>
@@ -135,12 +140,11 @@ It displays original audio for mixture of speaker, seperated audio by our model 
 
 # Diagrams
 
-<br />
 The below diagram is a class digram representing a static view describing different aspects 
 of our system. The class diagram illustrated collection of classes, i.e., deep_models, 
 training and tester, and their association with each other providing an overview of overall 
 structure of the system.
-<br/>
+<br/><br/>
 
 <p align="center">
     <img src="Images/Diagrams/ClassDiagram.png">
@@ -149,7 +153,7 @@ structure of the system.
 <p align="center">
 	<b>Figure 4.0 Class diagram for proposed work</b>
 </p>	<br /><br />
-<br />
+
 The below figure shows the sequence flow of the work that is followed in this project. The 
 flow starts with the user configuring the environment and importing the data, followed by 
 the creation of the model architecture. After this step, the training and validation is done 
@@ -162,7 +166,7 @@ after which the output is stored and displayed as the result.
 <p align="center">
 	<b>Figure 4.1 Sequence diagram for proposed work</b>
 </p>	<br /><br />
-<br />
+
 This diagram shows the divison in roles and responsibilities in this project in which 
 developer’s roles were to load the dataset, input the necessary model parameters and then 
 train and validate the model whereas the responsiblities of the tester were to test the model 
