@@ -1,6 +1,14 @@
 ### ReadME
-[![Hugging Face](https://img.shields.io/badge/2_Speaker_Live-%F0%9F%A4%97%20Hugging%20Face-blue.svg)](https://huggingface.co/spaces/Dhruv73/TwoSpeakerSpeechSeparation)<br>
-[![Hugging Face](https://img.shields.io/badge/3_Speaker_Live-%F0%9F%A4%97%20Hugging%20Face-blue.svg)](https://huggingface.co/spaces/Dhruv73/ThreeSpeakerSpeechSeparation)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>(2-Speakers)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>(3-Speakers)</b>
+<br>
+<a target="_blank" href="https://huggingface.co/spaces/Dhruv73/TwoSpeakerSpeechSeparation">
+  <img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="Open in HugginFace"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://huggingface.co/spaces/Dhruv73/ThreeSpeakerSpeechSeparation">
+  <img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="Open in HugginFace"/>
+</a>
+<br>
 
 ## 1 Objective
 The objective of this project is to develop a speech separation system for a multi-talker environment with two or more speakers.
