@@ -184,7 +184,9 @@ This diagram shows the division in roles and responsibilities in this project in
 
 # 5 Contributor
 1. Dhruv Saini  
-     . LinkedIN - https://www.linkedin.com/in/dhruv73     
+     . LinkedIN - https://www.linkedin.com/in/dhruv73
+2. Ritvik Sharma  
+     . LinkedIN - https://www.linkedin.com/in/ritvik-sharma-573325197      
      
 # 6 Requirements
 	
